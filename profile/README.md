@@ -17,7 +17,8 @@
 
 ### Spring Framework
 [01_spring-core](https://github.com/20230617-MTVS-3rd-Backend/01_spring-core)<br>
-[05_spring-webmvc](https://github.com/20230617-MTVS-3rd-Backend/05_spring-webmvc)
+[05_spring-webmvc](https://github.com/20230617-MTVS-3rd-Backend/05_spring-webmvc)<br>
+[07_spring-security](https://github.com/20230617-MTVS-3rd-Backend/07_spring-security)
 
 ### Database
 [02_mysql](https://github.com/20230617-MTVS-3rd-Backend/02_mysql)<br>
