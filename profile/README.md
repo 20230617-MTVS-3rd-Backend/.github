@@ -28,5 +28,5 @@
 [04_servlet](https://github.com/20230617-MTVS-3rd-Backend/04_servlet)
 
 ### Persistence Framework
-[06_mybatis](https://github.com/20230617-MTVS-3rd-Backend/06_mybatis)
+[06_mybatis](https://github.com/20230617-MTVS-3rd-Backend/06_mybatis)<br>
 [08_JPA](https://github.com/20230617-MTVS-3rd-Backend/08_JPA)
